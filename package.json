@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/samrocksc/iot_business/issues"
   },
-  "homepage": "https://github.com/samrocksc/iot_business"
+  "homepage": "https://github.com/samrocksc/iot_business",
+  "dependencies": {
+    "moment": "^2.8.4"
+  }
 }

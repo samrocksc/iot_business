@@ -1,0 +1,6 @@
+#ignores node_modules
+node_modules/
+#ignore testing files
+test.js
+test2.js
+
