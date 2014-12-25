@@ -21,7 +21,7 @@ module.exports = {
 	},
 		"Friday": {
 		"openTime": 7,
-		"closeTiem": 21
+		"closeTime": 21
 	},
 		"Saturday": {
 		"openTime": 7,

@@ -12,6 +12,5 @@ if (theTime >= theDay.openTime && theTime < theDay.closeTime) {
 	currentStatus = "open"
 }
 
-console.log(theDay);
-console.log(theTime);
+//establishes status of business currently
 console.log("The business is currently " +currentStatus);
